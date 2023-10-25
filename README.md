@@ -9,10 +9,9 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails Front-End](#-hello-rails-front-end-)
-  - [🛠 Project Requirements](#-project-requirements)
-  - [💻 Project Structure](#-project-structure)
-  - [💻 API Endpoints](#-api-endpoints)
+- [🛠 Project Requirements](#-project-requirements)
+  - [📖 Hello Rails Front-End](#-hello-rails-front-end-)
+  - [💻 API Endpoints](#api-endpoints)
   - [🚀 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
