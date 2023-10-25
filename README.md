@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails Back-End](#-hello-rails-back-end-)
+- [📖 Hello Rails Front-End](#-hello-rails-front-end-)
   - [🛠 Project Requirements](#-project-requirements)
   - [💻 Project Structure](#-project-structure)
   - [💻 API Endpoints](#-api-endpoints)
@@ -37,7 +37,7 @@
 - Populate the table with 5 different greetings.
 - Create an API endpoint that selects a random greeting from the table.
 
-## 🔗 Integration with Hello Rails Back-End <a name="integration-with-hello-rails-back-end"></a>
+## 🔗 Integration with Hello Rails Front-End <a name="integration-with-hello-rails-front-end"></a>
 
 This back-end application is designed to work in conjunction with the [Hello Rails Front-End](https://github.com/PabloBona/hello-react-front-end) project. The back-end project provides a server API, and the front-end application makes requests to `http://localhost:3000/api/greetings/random` to fetch random greetings. Ensure that the back-end server is running before using this application.
 
