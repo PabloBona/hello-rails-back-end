@@ -11,6 +11,7 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Hello Rails Back-End](#-hello-rails-back-end-)
   - [🛠 Project Requirements](#-project-requirements)
+  - [💻 Project Structure](#-project-structure)
   - [💻 API Endpoints](#-api-endpoints)
   - [🚀 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
@@ -35,6 +36,12 @@
 - Set up a Postgres database and create a table for storing messages.
 - Populate the table with 5 different greetings.
 - Create an API endpoint that selects a random greeting from the table.
+
+## 🔗 Integration with Hello Rails Back-End <a name="integration-with-hello-rails-back-end"></a>
+
+This front-end application is designed to work in conjunction with the [Hello Rails Back-End](https://github.com/PabloBona/hello-rails-back-end) project. The back-end project provides a server API, and this front-end application makes requests to `http://localhost:3000/api/greetings/random` to fetch random greetings. Ensure that the back-end server is running before using this front-end application.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 API Endpoints <a name="api-endpoints"></a>
 
