@@ -10,17 +10,17 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [🛠 Project Requirements](#-project-requirements)
-  - [📖 Hello Rails Front-End](#-hello-rails-front-end-)
+  - [📖 Hello Rails Front-End](#integration-with-hello-rails-front-end)
   - [💻 API Endpoints](#api-endpoints)
-  - [🚀 Getting Started](#-getting-started)
+  - [🚀 Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Run the Project](#run-the-project)
-  - [👥 Author](#-author)
-  - [🔭 Issues](#-issues)
-  - [🤝 Contributing](#-contributing)
-  - [⭐️ Show Your Support](#️-show-your-support)
-  - [📝 License](#-license)
+  - [👥 Author](#authors)
+  - [🔭 Issues](#issues)
+  - [🤝 Contributing](#contributing)
+  - [⭐️ Show Your Support](#️support)
+  - [📝 License](#license)
 
 <!-- PROJECT REQUIREMENTS -->
 
