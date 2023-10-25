@@ -39,7 +39,7 @@
 
 ## 🔗 Integration with Hello Rails Back-End <a name="integration-with-hello-rails-back-end"></a>
 
-This back-end application is designed to work in conjunction with the [Hello Rails Front-End](https://github.com/PabloBona/hello-rails-front-end) project. The back-end project provides a server API, and the front-end application makes requests to `http://localhost:3000/api/greetings/random` to fetch random greetings. Ensure that the back-end server is running before using this application.
+This back-end application is designed to work in conjunction with the [Hello Rails Front-End](https://github.com/PabloBona/hello-react-front-end) project. The back-end project provides a server API, and the front-end application makes requests to `http://localhost:3000/api/greetings/random` to fetch random greetings. Ensure that the back-end server is running before using this application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
